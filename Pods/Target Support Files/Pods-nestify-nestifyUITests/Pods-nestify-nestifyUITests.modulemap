@@ -1,0 +1,6 @@
+framework module Pods_nestify_nestifyUITests {
+  umbrella header "Pods-nestify-nestifyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

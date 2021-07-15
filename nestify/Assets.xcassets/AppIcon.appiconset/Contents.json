@@ -1,21 +1,25 @@
 {
   "images" : [
     {
+      "filename" : "notificationIcon40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "notificationIcon60.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "settingIcon58.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "settingIcon87.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -31,11 +35,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "appIcon120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "appIcon180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -46,6 +52,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "notificationIcon40-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -56,11 +63,13 @@
       "size" : "29x29"
     },
     {
+      "filename" : "settingIcon58-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "notificationIcon40-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
@@ -86,6 +95,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "AppStoreIcon1024.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
